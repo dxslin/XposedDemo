@@ -2,5 +2,7 @@
 <resources>
     <string-array name="xposed_scope">
         <item>com.android.systemui</item>
+        <item>com.tencent.mm</item>
+        <item>com.example.myapplication</item>
     </string-array>
 </resources>
